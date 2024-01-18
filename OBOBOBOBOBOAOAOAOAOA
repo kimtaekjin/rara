@@ -1,0 +1,23 @@
+[33mcommit b9ae044d1df6fa461a31834c9b1e4f8d8b502773[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: kimtaekjin <qlcdmlrlf@naver.com>
+Date:   Wed Jan 17 15:44:51 2024 +0900
+
+    네 번 째 커밋 Lyrics.txt 추가
+
+[33mcommit 24c874bba36198665a4dcecb5666eb01991b1c98[m
+Author: kimtaekjin <qlcdmlrlf@naver.com>
+Date:   Wed Jan 17 15:42:10 2024 +0900
+
+    세 번 째 커밋 Artist,song 수정
+
+[33mcommit cbff76e657ea3298222c1b7d995020a025b11c39[m
+Author: kimtaekjin <qlcdmlrlf@naver.com>
+Date:   Wed Jan 17 15:01:34 2024 +0900
+
+    두 번 째 커밋 -Aritst.txt를 수정하고 song.txt를 생성
+
+[33mcommit 642eecb4d95dc7f64b43f60ba17d3e49ef559bb3[m
+Author: kimtaekjin <qlcdmlrlf@naver.com>
+Date:   Wed Jan 17 14:47:42 2024 +0900
+
+    커밋 추가 -Artist.txt 만듦
